@@ -5,7 +5,7 @@ cask "velen" do
   url "https://kdkwoxtmlhie85jd.public.blob.vercel-storage.com/downloads/Velen-26.916.2.zip"
   name "Velen"
   desc "Menu bar leaderboard for AI token usage"
-  homepage "https://velen.sh"
+  homepage "https://velen.sh/"
 
   auto_updates true
   depends_on macos: :sonoma
