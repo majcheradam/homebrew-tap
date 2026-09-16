@@ -8,7 +8,7 @@ cask "velen" do
   homepage "https://velen.sh"
 
   auto_updates true
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Velen.app"
 end
