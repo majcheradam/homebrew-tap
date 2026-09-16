@@ -1,8 +1,8 @@
 cask "velen" do
-  version "26.916.1"
-  sha256 "589546dd7b63760bc9bb92619a4a7c6df30d7b8f0c8c0ddd8cd5b2a33db27822"
+  version "26.916.2"
+  sha256 "fce014795af7e650ff1da8bb9cbab5ef940ff8caaa14bbd2d416881965333ec0"
 
-  url "https://kdkwoxtmlhie85jd.public.blob.vercel-storage.com/downloads/Velen-26.916.1-wr3OqnAISa4GkwgcwMao0fw1TMVcii.zip"
+  url "https://kdkwoxtmlhie85jd.public.blob.vercel-storage.com/downloads/Velen-26.916.2.zip"
   name "Velen"
   desc "Menu bar leaderboard for AI token usage"
   homepage "https://velen.sh"
